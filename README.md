@@ -1,9 +1,5 @@
 # Hi there, I'm Ryan 👋
-Having experience in creating and
-developing an online shop, hiring app, paym ent app, and ticket booking app projects.
-Able to use various Javascript fram ework and library such as React.JS, Next.JS, Redux,
-ExpressJs, and React Native. Experienced using PostgreSQL for the database. Able to
-work together using github and Linux as a daily operating system
+<p align="left">Having experience in creating and developing an online shop, hiring app, payment app, and ticket booking app projects. Able to use various Javascript fram ework and library such as React.JS, Next.JS, Redux, ExpressJs, and React Native. Experienced using PostgreSQL for the database. Able to work together using github and Linux as a daily operating system.</p>
 
 ## My stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ryanagungsamudra&show_icons=true&theme=radical"/>
